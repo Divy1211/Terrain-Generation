@@ -1,6 +1,6 @@
 # Terrain Generation
 1. I have coded a 3D Terrain Generation program in Processing (a java animations library), my code is a bit messy but i think it will be readable enough. You can run the code in the Processing Developement Environment (PDE) itself.  
-2. It has very basic . If you find a bug you can open a pull request
+2. If you find a bug you can open a pull request
 
 # Prerequisities
 1. You should have Java installed.
